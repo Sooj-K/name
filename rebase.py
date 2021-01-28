@@ -3,10 +3,14 @@ def kimsj7():
     print('real JJang!!')
 
 
+<<<<<<< HEAD
 def jisun():
     print('jisun')
-    return 'jisun'
-
-# 마스터커밋!
-
+=======
+<<<<<<< Updated upstream
 # 김수정 2 커밋
+=======
+# 김수정 2 커밋
+def jisun():
+    print('jisun')
+    pirnt('T_T')
