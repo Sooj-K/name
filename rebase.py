@@ -8,3 +8,5 @@ def jisun():
     return 'jisun'
 
 # 마스터커밋!
+
+# 김수정 2 커밋
