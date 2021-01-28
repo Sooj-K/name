@@ -6,3 +6,5 @@ def kimsj7():
 def jisun():
     print('jisun')
     return 'jisun'
+    
+# 김수정 2 커밋
